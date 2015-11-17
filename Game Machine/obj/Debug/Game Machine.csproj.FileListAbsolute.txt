@@ -1,0 +1,6 @@
+E:\Programming\C#\Game Machine\Game Machine\bin\Debug\Game Machine.exe.config
+E:\Programming\C#\Game Machine\Game Machine\obj\Debug\Game Machine.csprojResolveAssemblyReference.cache
+E:\Programming\C#\Game Machine\Game Machine\bin\Debug\Game Machine.exe
+E:\Programming\C#\Game Machine\Game Machine\bin\Debug\Game Machine.pdb
+E:\Programming\C#\Game Machine\Game Machine\obj\Debug\Game Machine.exe
+E:\Programming\C#\Game Machine\Game Machine\obj\Debug\Game Machine.pdb
